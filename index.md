@@ -21,3 +21,9 @@ var myVar = "Hello Markdown, from Javascript!";
 ```python
 print("Hello Markdown, from Python!")
 ```
+
+This is a task list
+- [x] Start with Github Markdown
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
